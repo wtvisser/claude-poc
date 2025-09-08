@@ -2,6 +2,49 @@
 * Context switching remains relevant, but contexts for humans working with AI tools such as LLMs changes depending on the jnb. 
 * AWS’s new AI-Driven Development Lifecycle (AI-DLC)
 
+## Principles
+sources:
+* https://dev.to/clickit_devops/software-engineering-principles-for-your-team-5b0c
+
+* agile principles
+  * see Agile manifesto
+* design principles
+* coding principles
+* testing principles
+* process principles
+
+
+### Level 1
+* reduction / simplicity: do not create more than necessary
+* agility
+* cognitive load
+* collaborative and safe
+* quality culture
+* self-organized
+
+### Level 2
+* antifragility
+* modularity & encapsulation
+* use a modern, mature and consolidated teck stack
+* secure
+* automation
+* fast feedback
+* abstraction
+
+### Level 3
+* maintainability
+* extensibility
+* scalability
+* loose coupling & cohesion
+* CI/CD
+* testability
+* SOLID
+
+### Level 4
+* reuse
+* abstraction
+* DRY
+
 # Planning
 * Generate epics, do task breakdown
 * Use UX sketches

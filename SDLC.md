@@ -13,7 +13,6 @@ sources:
 * testing principles
 * process principles
 
-
 ### Level 1
 * reduction / simplicity: do not create more than necessary
 * agility
